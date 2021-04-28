@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BMS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Company.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Customer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Expense.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\ExpenseAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Product.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Purchases.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Sale.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Supplier.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
